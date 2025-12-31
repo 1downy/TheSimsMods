@@ -7,7 +7,7 @@
 
 >  **Credits & Acknowledgments**
 
-> This tool is designed to work with the content provided by various **The Sims Content Creators** whose work is archived at [Must Be Destroyed (The Booty)](http://paysites.mustbedestroyed.org). We acknowledge the immense creativity of the modding community and the archival efforts of the website.
+> This tool is designed to work with the content provided by various **The Sims Content Creators** whose work is archived at [PAYSITES MUST BE DESTROYED! (The Booty)](http://paysites.mustbedestroyed.org). We acknowledge the immense creativity of the modding community and the archival efforts of the website.
 
   
 
@@ -19,7 +19,7 @@
 
   
 
-**HTTP Directory Explorer** is a robust Python-based CLI tool specifically designed for navigating and downloading content from AutoIndex-style directory listings. While it can be used for any compatible server, it is pre-configured for efficient retrieval of The Sims custom content from community archives.
+**HTTP Directory Explorer** is a robust Python-based CLI tool specifically designed for navigating and downloading content from free directory listings.
 
   
 
@@ -91,3 +91,4 @@ python main.py
 > [!WARNING]
 
 > This software is intended for personal archival and educational purposes. The developers of this tool are not affiliated with Electronic Arts, The Sims, or any specific content creators. Use responsibly.
+
